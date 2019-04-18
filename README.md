@@ -1,1 +1,3 @@
 # MachineLearning_R_tidyverse
+
+This project leverages the tools in the "tidyverse" to generate, explore, and evaluate machine learning models. Using a combination of tidyr and purrr packages allows to build complex model objects in a "tidy" way. Also it leverages the broom package to explore resulting models. Then tools in the test-train-validate workflow are employed, which will empower to evaluate the performance of both classification and regression models as well as provide the necessary information to optimize model performance via hyperparameter tuning. The gapminder data set is used for these purposes.
